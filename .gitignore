@@ -8,3 +8,7 @@ marc4j.iml
 .project
 .classpath
 generated-src
+
+*.pom
+
+test/src/org/marc4j/test/generated-xml.xml
